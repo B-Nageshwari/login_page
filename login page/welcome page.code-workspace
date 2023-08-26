@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../welcome page"
+		},
+		{
+			"path": "../cpu-metrics-usage"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../registrationpage"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503,
+		"liveServer.settings.multiRootWorkspaceName": "login page"
+	}
+}

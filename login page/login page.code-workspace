@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../welcome page"
+		},
+		{
+			"path": "../registrationpage"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login page",
+		"liveServer.settings.port": 5502
+	}
+}
